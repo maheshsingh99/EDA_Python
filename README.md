@@ -1,5 +1,5 @@
 
-````
+
 # 📊 E-Commerce Sales Data Analysis (EDA)
 
 ## 📌 Project Overview
@@ -118,18 +118,15 @@ The notebook contains various visualizations including:
 ---
 
 
----
-
 ## 📁 Project Structure
 
-```
+
 ├── EDA_Sales Analysis
 ├── README.md
 ├── messy_customers.csv
 ├── messy_orders.csv
 ├── messy_order_items.csv
 ├── messy_products.csv
-```
 
 ---
 
@@ -144,11 +141,10 @@ Through this project, I learned:
 - Data Visualization
 - Business Insight Generation using Python
 
-
 ## • Yearly Sales
 📅 Yearly Sales represents the total sales generated within a year. It helps businesses measure annual performance, track growth trends, compare yearly revenue, and evaluate the overall success of sales strategies and business operations.
-<img width="541" height="471" alt="y_s" src="https://github.com/user-attachments/assets/c14dd90e-f3f6-48a5-bc18-6353f284d29b" />
 
+<img width="541" height="471" alt="y_s" src="https://github.com/user-attachments/assets/c14dd90e-f3f6-48a5-bc18-6353f284d29b" />
 
 
 ## • Yearly Quantity   Sold
@@ -157,12 +153,13 @@ Through this project, I learned:
 
 
 # • Monthly and Yearly Trend
-<img width="953" height="461" alt="Screenshot 2026-07-14 205819" src="https://github.com/user-attachments/assets/70f2875b-65e4-4de7-a210-2b1bda136942" />
+<img width="944" height="523" alt="Screenshot 2026-07-14 205759" src="https://github.com/user-attachments/assets/77425593-0f9f-4c2d-a340-829a73e096b2" />
+
 
 
 # • Monthly Revenue 
 
-<img width="944" height="523" alt="Screenshot 2026-07-14 205759" src="https://github.com/user-attachments/assets/77425593-0f9f-4c2d-a340-829a73e096b2" />
+<img width="953" height="461" alt="Screenshot 2026-07-14 205819" src="https://github.com/user-attachments/assets/70f2875b-65e4-4de7-a210-2b1bda136942" />
 
 
 # • Monthly Quantity Sold
@@ -276,6 +273,6 @@ Business Recommendations
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
-````
+
 
 
