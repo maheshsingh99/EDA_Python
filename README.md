@@ -144,10 +144,10 @@ Through this project, I learned:
 - Data Visualization
 - Business Insight Generation using Python
 
----
+
 ## • Yearly Sales
 📅 Yearly Sales represents the total sales generated within a year. It helps businesses measure annual performance, track growth trends, compare yearly revenue, and evaluate the overall success of sales strategies and business operations.
-<img width="541" height="471" alt="y_s" src="https://github.com/user-attachments/assets/1e92572a-7722-4e06-ab0f-fda3e2fb7ba0" />
+<img width="541" height="471" alt="y_s" src="https://github.com/user-attachments/assets/c14dd90e-f3f6-48a5-bc18-6353f284d29b" />
 
 
 
