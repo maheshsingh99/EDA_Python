@@ -123,9 +123,7 @@ The notebook contains various visualizations including:
 ## 📁 Project Structure
 
 ```
-├── EDA_Sales Analysis<img width="541" height="471" alt="y_s" src="https://github.com/user-attachments/assets/ca2a8b47-dedd-4fce-b4f5-c8064f9c8e2c" />
-<img width="541" height="471" alt="y_s" src="https://github.com/user-attachments/assets/b96cdca3-a6c8-4493-83f6-b40862409d99" />
-.ipynb
+├── EDA_Sales Analysis
 ├── README.md
 ├── messy_customers.csv
 ├── messy_orders.csv
